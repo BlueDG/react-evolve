@@ -1,1 +1,1 @@
-Exercice ReactJS
+React Exercise
